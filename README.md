@@ -1,0 +1,2 @@
+# ZSatChangelog
+Changelog for ZSat
